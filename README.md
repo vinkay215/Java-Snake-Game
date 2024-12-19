@@ -1,5 +1,3 @@
-# CMU SE 214 ACIS Group 2
-
 ## 🚀 INTRODUCTION  
 Welcome to Snake Game, a classic arcade game where the player controls a snake navigating a grid. The goal is to eat food and grow longer while avoiding collisions with itself or the grid boundaries.
   
